@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Design**
 
-- 📫 You can reach me if u want (wouldn'T recommend) on  **Discord Lucbudo#6992**
+- 📫 You can reach me if u want (wouldn't recommend) on  **Discord Lucbudo#6992**
 
 - ⚡ Fun fact **I like cats**
 
