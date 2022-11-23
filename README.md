@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucbudo&label=Profile%20views&color=0e75b6&style=flat" alt="lucbudo" /> </p>
 
-- 🌱 I’m currently learning **Python, Kotlin**
+- 🌌 I’m currently working on a Minecraft Hack Client called  **Paradigm**
 
 - 🤝 I’m looking for help with **Programming, Cracking , Hacking**
 
