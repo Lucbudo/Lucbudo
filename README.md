@@ -5,7 +5,7 @@
 
 - 🌌 I’m currently working on a Minecraft Hack Client called  **Paradigm**
 
-- 🤝 I’m looking for help with **Programming, Cracking , Hacking**
+- 🤝 I’m looking for help with **Programming, Cracking , Hacking, Web Development**
 
 - 💬 Ask me about **Design**
 
