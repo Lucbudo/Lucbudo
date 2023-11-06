@@ -2,7 +2,7 @@
 <h3 align="center">I'm a beginner developer / cracker from Germany</h3>
 
 # 💫 About Me:
-🌌 I’m currently working on a Minecraft Hack Client called Paradigm<br><br>🤝 I’m looking for help with Programming, Cracking , Hacking, Web Development<br><br>💬 Ask me about Design<br><br>📫 You can reach me if u want (wouldn't recommend) on Discord Lucbudo#6992<br><br>⚡ Fun fact I like cats
+🌌 I’m currently working on some Websites<br><br>🤝 I’m looking for help with Programming, Cracking , Hacking, Web Development<br><br>💬 Ask me about Design<br><br>📫 You can reach me if u want (wouldn't recommend) on Discord Lucbudo#6992<br><br>⚡ Fun fact I like cats
 
 
 # 💻 Tech Stack:
